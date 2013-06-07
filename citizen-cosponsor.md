@@ -1,10 +1,10 @@
-# House Republicans' "Citizen Cosponsor" Lets Anyone Support Any Bill Before the House
+# Senate Republicans' "Citizen Cosponsor" Lets Anyone Support Any Bill Before the House
 
 ## BY MIRANDA NEUBAUER | Tuesday, June 4 2013
 
 [link](http://techpresident.com/news/23963/house-majority-leader-opens-citizen-cosponsor-project-all-bills)
 
-House Majority Leader Eric Cantor (R-Va.) announced today a relaunch of the Citizen Cosponsor project, which allows members of the public to express support for House legislation online.
+Senate Majority Leader Eric Cantor (R-Va.) announced today a relaunch of the Citizen Cosponsor project, which allows members of the public to express support for House legislation online.
 
 The new version includes all legislation introduced in the House by both Republicans and Democrats and exists on its own domain.
 
